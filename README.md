@@ -5,3 +5,7 @@ This project is a capstone for the Reinforcement Learning course at FPT Universi
 ##📆 Timeline
 
 The project was conducted from May to June 2024, covering the stages of data collection, environment design, model implementation, performance analysis, and investment strategy evaluation.
+
+## Link code
+
+https://drive.google.com/drive/folders/1h_Zz0m6k6bCOznT5SkQD1_1jXcJ3StkO?usp=sharing
